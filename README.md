@@ -18,9 +18,6 @@ Simple single web page application made with [create-react-app](https://github.c
 
 ###### Filter films:
 
-![Gif](https://i.imgur.com/Sdd40Li.gif)
-
-
 
 
 This application relies on external API service to get films information:
