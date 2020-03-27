@@ -1,10 +1,9 @@
-[![HTML5,CSS3 and JS](https://github.com/FransLopez/logo-images/blob/master/logos/html5-css3-js.png)](http://www.w3.org/)[![Standard - JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)[![ES6](https://github.com/MarioTerron/logo-images/blob/master/logos/es6.png)](http://www.ecma-international.org/ecma-262/6.0/)[![babel](https://raw.githubusercontent.com/ddmarin94/React-Webpack-Github/master/img/babel.png)](https://webpack.github.io/)[![npm](https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png)](https://www.npmjs.com/)[![React](https://github.com/FransLopez/logo-images/blob/master/logos/react.png)](https://facebook.github.io/react/)[![Ant-Design](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_ant-design.png?raw=true)](https://ant.design/)
-[![flow](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_2flow.png?raw=true)](https://flow.org/) 
+[![HTML5,CSS3 and JS](https://github.com/FransLopez/logo-images/blob/master/logos/html5-css3-js.png)](http://www.w3.org/)
 
 ---
 
 
-# [React-movie-finder](http://react-movie-finder.surge.sh)
+# [Movie Recommendation](http://react-movie-finder.surge.sh)
 
 
 Simple single web page application made with [create-react-app](https://github.com/facebookincubator/create-react-app) to experiment with **react routing v4** and [Ant-design](https://github.com/ant-design/ant-design/) an UI design language and React-based implementation.
